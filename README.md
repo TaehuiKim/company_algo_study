@@ -1,5 +1,6 @@
 # Day1 Algorithm Study
-# 주차별 계획
+
+## 주차별 계획
 
 1. **워밍업 및 정렬(1)**
     1. [워밍업 문자열 문제](https://leetcode.com/problems/longest-palindrome/)
