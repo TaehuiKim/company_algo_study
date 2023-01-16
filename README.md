@@ -7,6 +7,8 @@
     2. [1차원 배열 정렬](https://leetcode.com/problems/sort-an-array/) 
 2. **정렬(2)**
     1. 2차원 배열 정렬
+    - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
+    - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 3. **정렬(3)**
     1. 싱글 링크드 리스트 정렬
     2. (optional) 더블 링크드 리스트 맛보기
