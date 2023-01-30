@@ -11,7 +11,9 @@
     - [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 3. **정렬(3)**
     1. 싱글 링크드 리스트 정렬
+    - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
     2. (optional) 더블 링크드 리스트 맛보기
+    - [LRU Cache](https://leetcode.com/problems/lru-cache/)
 4. **스택**
     1. easy 1 문제
     2. medium ~ hard 1 문제
