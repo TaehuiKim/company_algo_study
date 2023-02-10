@@ -16,7 +16,9 @@
     - [LRU Cache](https://leetcode.com/problems/lru-cache/)
 4. **스택**
     1. easy 1 문제
+    - [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)
     2. medium ~ hard 1 문제
+    - []()
 5. **큐(1)**
     1. 큐
     2. (optional) 더블 엔디드 큐 a.k.a deque
