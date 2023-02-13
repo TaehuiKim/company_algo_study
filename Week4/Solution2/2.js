@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {string}
  */
-const booleanInteger = (c) => Number.isInteger(Number(c));
+const booleanInteger = (c) => c >= '0' && c <= '9';
 const decodeString = (s) => {
     const sLength = s.length;
     const stack = [];
