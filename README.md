@@ -21,6 +21,8 @@
     - [Decode String](https://leetcode.com/problems/decode-string)
 5. **큐(1)**
     1. 큐
+    - [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+    - [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)
     2. (optional) 더블 엔디드 큐 a.k.a deque
 6. **큐(2)**
     1. 우선순위 큐 a.k.a 힙
